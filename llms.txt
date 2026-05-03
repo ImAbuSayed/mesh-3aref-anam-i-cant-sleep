@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> أنا مش عارف أنام والليل غريب
+> نار الشوق في قلبي لهيب
+> طيفك معايا دايمًا قريب
+> تعالى لحضني يا أغلى حبيب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
