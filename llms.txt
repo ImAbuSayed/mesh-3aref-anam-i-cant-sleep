@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-3aref-anam-i-cant-sleep/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Mesh 3aref Anam – I can’t sleep](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
