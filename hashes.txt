@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mesh 3aref Anam – I can’t sleep
+
+This log tracks the cryptographic history and versioning for the song **Mesh 3aref Anam – I can’t sleep** (mesh-3aref-anam-i-cant-sleep).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:33:52.280873 | `v1` | `1259d0a18589b360bd3a725373873103cbed8c142b45ea5f2b1308ec0592d221` | `a87aed7329ea083ff56b7d07bd55dcb0280d1306e8656ef9eb676d23c8f20eae` | `2026-05-09_mesh-3aref-anam-i-cant-sleep-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
